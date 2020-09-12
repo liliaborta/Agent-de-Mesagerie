@@ -1,0 +1,17 @@
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache

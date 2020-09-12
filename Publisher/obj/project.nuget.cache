@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Un0FlBawB8BS045EPTRWV3w1y4xdWzOCx4gn/mz4hQjwvCgzXH0Hw9Q0K1uUYxEh8ZoLuY6ct2uwgkXnZhd5ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lilia\\OneDrive\\Desktop\\utm\\Anul 4\\PAD\\Message Broker\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lilia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+C:\Users\Lilia\OneDrive\Desktop\utm\Anul 4\PAD\Message Broker\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache
